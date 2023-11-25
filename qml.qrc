@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyDelegate.qml</file>
+        <file>PageFooter.qml</file>
+    </qresource>
+</RCC>
